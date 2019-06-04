@@ -34,8 +34,7 @@
                 <version>2.1.1.RELEASE</version>
                 <extensions>true</extensions>
                 <configuration>
-                    <baseClassForTests>com.baeldung.spring.cloud.springcloudcontractproducer.BaseTestClass
-                    </baseClassForTests>
+                    <baseClassForTests>test.java.producer.BaseTestClass</baseClassForTests>
                 </configuration>
             </plugin>
         </plugins>
